@@ -11,8 +11,6 @@ This project architects a relational database schema for supermarket operations 
 ## 📊 Database Architecture (ERD)
 The system consists of 6 core entities connected via strict referential integrity to ensure a seamless order fulfillment workflow:
 
-![Supermarket ERD](./docs/ERD_Supermarket.jpeg)
-
 * **Customers**: Manages customer profiles and contact data.
 * **Staff**: Manages employee records responsible for processing transactions.
 * **Product & ProductType**: Normalized product categorization for storage efficiency.
